@@ -6,7 +6,7 @@
 
 ```bash
 git clone https://github.com/org-tapadipti/tapa-dvc-course-ds-base.git
-cd course-ds-base
+cd tapa-dvc-course-ds-base
 ```
 
 
