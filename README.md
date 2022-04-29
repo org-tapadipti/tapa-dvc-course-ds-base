@@ -5,7 +5,7 @@
 ### 1. Fork / Clone this repository
 
 ```bash
-git clone https://github.com/iterative/course-ds-base.git
+git clone https://github.com/org-tapadipti/tapa-dvc-course-ds-base.git
 cd course-ds-base
 ```
 
